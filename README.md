@@ -3,6 +3,7 @@
 </p>
 
 ![Static Badge](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/Alacritty-F46D01?style=flat-square&logo=alacritty&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=fff)
