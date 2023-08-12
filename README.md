@@ -9,7 +9,5 @@
 ![Static Badge](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/OnePlus-F5010C?style=flat-square&logo=oneplus&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/Windows_10-0078D6?style=flat-square&logo=windows10&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/HTTPie-73DC8C?style=flat-square&logo=httpie&logoColor=fff)
-![Static Badge](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=fff)
 ![Static Badge](https://img.shields.io/badge/Intellij_Idea-000000?style=flat-square&logo=intellijidea&logoColor=fff)
